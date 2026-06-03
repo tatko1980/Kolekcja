@@ -1,0 +1,207 @@
+
+
+[
+  {
+    "rok": 1995,
+    "nazwa": "50. rocznica powstania ONZ",
+    "seria": "Historia Polski",
+    "awers": "img/onz_awers.jpg",
+    "rewers": "img/onz_rewers.jpg"
+  },
+  {
+    "rok": 1998,
+    "nazwa": "Zamek w Kórniku",
+    "seria": "Zabytki Kultury Materialnej",
+    "awers": "img/zamek_kornik_awers.jpg",
+    "rewers": "img/zamek_kornik_rewers.jpg"
+  },
+ {
+  "rok": 1998,
+  "nazwa": "100-lecie odkrycia radu i polonu",
+  "seria": "Nauka i Odkrycia",
+  "awers": "img/rad_polon_awers.jpg",
+  "rewers": "img/rad_polon_rewers.jpg"
+  },
+ {
+  "rok": 2001,
+  "nazwa": "Kolędnicy",
+  "seria": "Tradycje i Święta",
+  "awers": "img/kolednicy_awers.jpg",
+  "rewers": "img/kolednicy_rewers.jpg"
+},
+  {
+  "rok": 2003,
+  "nazwa": "Śmigus-Dyngus",
+  "seria": "Tradycje i Święta",
+  "awers": "img/smigus_dyngus_awers.jpg",
+  "rewers": "img/smigus_dyngus_rewers.jpg"
+},
+  {
+  "rok": 2004,
+  "nazwa": "Morświn",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/morswin_awers.jpg",
+  "rewers": "img/morswin_rewers.jpg"
+  },
+  {
+  "rok": 2004,
+  "nazwa": "Dożynki",
+  "seria": "Tradycje i Święta",
+  "awers": "img/dozynki_awers.jpg",
+  "rewers": "img/dozynki_rewers.jpg"
+  },
+  {
+  "rok": 2004,
+  "nazwa": "15-lecie Senatu III RP",
+  "seria": "Historia Polski",
+  "awers": "img/senat_awers.jpg",
+  "rewers": "img/senat_rewers.jpg"
+  },
+  {
+  "rok": 2005,
+  "nazwa": "350-lecie obrony Jasnej Góry",
+  "seria": "Historia Polski",
+  "awers": "img/jasna_gora_awers.jpg",
+  "rewers": "img/jasna_gora_rewers.jpg"
+  },
+  {
+  "rok": 2006,
+  "nazwa": "Świstak",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/swistak_awers.jpg",
+  "rewers": "img/swistak_rewers.jpg"
+  },
+  {
+  "rok": 2006,
+  "nazwa": "Kościół w Haczowie",
+  "seria": "Zabytki Kultury Materialnej",
+  "awers": "img/haczow_awers.jpg",
+  "rewers": "img/haczow_rewers.jpg"
+  },
+  {
+  "rok": 2007,
+  "nazwa": "Miasto średniowieczne w Toruniu",
+  "seria": "Zabytki Kultury Materialnej",
+  "awers": "img/torun_awers.jpg",
+  "rewers": "img/torun_rewers.jpg"
+  },
+  {
+  "rok": 2007,
+  "nazwa": "Foka szara",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/foka_awers.jpg",
+  "rewers": "img/foka_rewers.jpg"
+  },
+  {
+  "rok": 2008,
+  "nazwa": "90. rocznica Odzyskania Niepodległości",
+  "seria": "Historia Polski",
+  "awers": "img/90_rocznica_niepodleglosci_awers.jpg",
+  "rewers": "img/90_rocznica_niepodleglosci_rewers.jpg"
+  },
+  {
+  "rok": 2008,
+  "nazwa": "Kazimierz Dolny",
+  "seria": "Zabytki Kultury Materialnej",
+  "awers": "img/kazimierz_dolny_awers.jpg",
+  "rewers": "img/kazimierz_dolny_rewers.jpg"
+  },
+  {
+  "rok": 2008,
+  "nazwa": "Sokół wędrowny",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/sokol_wedrowny_awers.jpg",
+  "rewers": "img/sokol_wedrowny_rewers.jpg"
+  },
+  {
+  "rok": 2009,
+  "nazwa": "Polacy ratujący Żydów",
+  "seria": "Historia Polski",
+  "awers": "img/polacy_ratujacy_zydow_awers.jpg",
+  "rewers": "img/polacy_ratujacy_zydow_rewers.jpg"
+  },
+  {
+  "rok": 2009,
+  "nazwa": "65. rocznica getta w Łodzi",
+  "seria": "Historia Polski",
+  "awers": "img/getto_lodz_awers.jpg",
+  "rewers": "img/getto_lodz_rewers.jpg"
+  },
+  {
+  "rok": 2010,
+  "nazwa": "Krzeszów",
+  "seria": "Zabytki Kultury Materialnej",
+  "awers": "img/krzeszow_awers.jpg",
+  "rewers": "img/krzeszow_rewers.jpg"
+  },
+  {
+  "rok": 2010,
+  "nazwa": "Podkowiec mały",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/podkowiec_maly_awers.jpg",
+  "rewers": "img/podkowiec_maly_rewers.jpg"
+  },
+  {
+  "rok": 2011,
+  "nazwa": "Smoleńsk",
+  "seria": "Historia Polski",
+  "awers": "img/smolensk_awers.jpg",
+  "rewers": "img/smolensk_rewers.jpg"
+  },
+  {
+  "rok": 2010,
+  "nazwa": "90. rocznica bitwy warszawskiej",
+  "seria": "Historia Polski",
+  "awers": "img/bitwa_warszawska_1920_awers.jpg",
+  "rewers": "img/bitwa_warszawska_1920_rewers.jpg"
+  },
+  {
+  "rok": 2011,
+  "nazwa": "Borsuk",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/borsuk_awers.jpg",
+  "rewers": "img/borsuk_rewers.jpg"
+  },
+  {
+  "rok": 2011,
+  "nazwa": "Beatyfikacja Jana Pawła II",
+  "seria": "Religia",
+  "awers": "img/beatyfikacja_jana_pawla_ii_awers.jpg",
+  "rewers": "img/beatyfikacja_jana_pawla_ii_rewers.jpg"
+  },
+  {
+  "rok": 2009,
+  "nazwa": "Jaszczurka zielona",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/jaszczurka_zielona_awers.jpg",
+  "rewers": "img/jaszczurka_zielona_rewers.jpg"
+  },
+  {
+  "rok": 2012,
+  "nazwa": "Polacy ratujący Żydów",
+  "seria": "Historia Polski",
+  "awers": "img/polacy_ratujacy_zydow_2012_awers.jpg",
+  "rewers": "img/polacy_ratujacy_zydow_2012_rewers.jpg"
+  },
+  {
+  "rok": 2014,
+  "nazwa": "Patrioci 1944 Obywatele",
+  "seria": "Historia Polski",
+  "awers": "img/patrioci_1944_obywatele_awers.jpg",
+  "rewers": "img/patrioci_1944_obywatele_rewers.jpg"
+  },
+  {
+  "rok": 2014,
+  "nazwa": "Konik polski",
+  "seria": "Zwierzęta Świata",
+  "awers": "img/konik_polski_awers.jpg",
+  "rewers": "img/konik_polski_rewers.jpg"
+  },
+  {
+  "rok": 2017,
+  "nazwa": "Pięć wieków reformacji",
+  "seria": "Religia",
+  "awers": "img/piec_wiekow_reformacji_awers.jpg",
+  "rewers": "img/piec_wiekow_reformacji_rewers.jpg"
+  }
+]
