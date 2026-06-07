@@ -332,11 +332,18 @@ button:hover{
     .cards{
         grid-template-columns:1fr;
     }
-    .coin-title{
+}
+
+/* Klikalna nazwa monety */
+
+.coin-title{
     cursor:pointer;
     transition:0.2s;
+    display:inline-block;
 }
 
 .coin-title:hover{
-    color:#d4a72c;
+    color:var(--accent);
+    text-decoration:underline;
+    transform:translateX(3px);
 }
