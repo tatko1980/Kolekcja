@@ -95,9 +95,20 @@ onclick="openViewer('${m.rewers}')">`
   ${m.nazwa}
 </h3>
 
-        <p><strong>Rok:</strong> ${m.rok}</p>
-        <p><strong>Nominał:</strong> 20 zł</p>
-        <p><strong>Stan:</strong> ${notes[m.nazwa]?.stan || '-'}</p>
+<p>
+  <strong>Rok:</strong>
+  <span class="value">${m.rok}</span>
+</p>
+
+<p>
+  <strong>Nominał:</strong>
+  <span class="value">20 zł</span>
+</p>
+
+<p>
+  <strong>Stan:</strong>
+  <span class="status">${notes[m.nazwa]?.stan || '-'}</span>
+</p>
 
  <button class="edit-btn" data-name="${m.nazwa}">
   Edytuj
