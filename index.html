@@ -156,12 +156,50 @@ function saveCoin(){
     notatka: document.getElementById('editNotatka').value
   };
 
-closeModal();
-render();
+  closeModal();
+  render();
 
-localStorage.setItem('notes', JSON.stringify(notes));
+  localStorage.setItem('notes', JSON.stringify(notes));
 
-alert('Zapisano');
+  alert('Zapisano');
+}
+
+function showDetails(name){
+
+  let coin = all.find(m => m.nazwa === name);
+
+  if(!coin) return;
+
+  document.getElementById('detailsTitle').textContent =
+    coin.nazwa;
+
+  document.getElementById('detailsAwers').src =
+    coin.awers;
+
+  document.getElementById('detailsRewers').src =
+    coin.rewers;
+
+  document.getElementById('detailsRok').textContent =
+    coin.rok;
+
+  document.getElementById('detailsSeria').textContent =
+    coin.seria;
+
+  let note = notes[name] || {};
+
+  document.getElementById('detailsStan').textContent =
+    note.stan || '-';
+
+  document.getElementById('detailsNotatka').textContent =
+    note.notatka || 'Brak notatki';
+
+  document.getElementById('detailsModal').style.display =
+    'flex';
+}
+
+function closeDetails(){
+  document.getElementById('detailsModal').style.display =
+    'none';
 }
 </script>
 
