@@ -332,4 +332,11 @@ button:hover{
     .cards{
         grid-template-columns:1fr;
     }
+    .coin-title{
+    cursor:pointer;
+    transition:0.2s;
+}
+
+.coin-title:hover{
+    color:#d4a72c;
 }
