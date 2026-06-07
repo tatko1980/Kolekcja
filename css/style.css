@@ -347,3 +347,12 @@ button:hover{
     text-decoration:underline;
     transform:translateX(3px);
 }
+.value{
+    color:var(--accent);
+    font-weight:600;
+}
+
+.status{
+    color:#4caf50;
+    font-weight:700;
+}
