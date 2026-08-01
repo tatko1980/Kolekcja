@@ -229,6 +229,20 @@ function showDetails(name){
 }
 
 function closeDetails(){
+function getStatusClass(stan){
+
+    if(!stan) return "";
+
+    stan = stan.toLowerCase();
+
+    if(stan.includes("menn")) return "menniczy";
+
+    if(stan.includes("bardzo")) return "bdb";
+
+    if(stan.includes("dobry")) return "db";
+
+    return "slaby";
+}
   document.getElementById('detailsModal').style.display =
     'none';
 }
@@ -246,7 +260,18 @@ function closeDetails(){
     <input type="hidden" id="editName">
 
     <label>Stan monety</label>
-    <input id="editStan" type="text">
+
+<select id="editStan">
+
+    <option value="Menniczy">Menniczy</option>
+
+    <option value="Bardzo dobry">Bardzo dobry</option>
+
+    <option value="Dobry">Dobry</option>
+
+    <option value="Słaby">Słaby</option>
+
+</select>
 
     <label>Notatka</label>
     <textarea id="editNotatka"></textarea>
