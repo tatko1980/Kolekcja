@@ -384,3 +384,18 @@ button:hover{
     background:#8b2f2f;
     color:#fff;
 }
+select{
+    width:100%;
+    padding:var(--space-4);
+    border-radius:10px;
+    background:var(--panel-2);
+    color:var(--text);
+    border:1px solid var(--border);
+    box-sizing:border-box;
+    font-size:16px;
+}
+
+select:focus{
+    outline:none;
+    border-color:var(--accent);
+}
