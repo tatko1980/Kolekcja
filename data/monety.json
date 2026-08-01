@@ -28,6 +28,7 @@
   "seria": "Tradycje i Święta",
   "awers": "img/kolednicy_awers.jpg",
   "rewers": "img/kolednicy_rewers.jpg"
+ },
   {
   "rok": 2002,
   "nazwa": "Żółw błotny",
@@ -148,18 +149,18 @@
   "rewers": "img/podkowiec_maly_rewers.jpg"
   },
   {
-  "rok": 2011,
-  "nazwa": "Smoleńsk",
-  "seria": "Historia Polski",
-  "awers": "img/smolensk_awers.jpg",
-  "rewers": "img/smolensk_rewers.jpg"
-  },
-  {
   "rok": 2010,
   "nazwa": "90. rocznica bitwy warszawskiej",
   "seria": "Historia Polski",
   "awers": "img/bitwa_warszawska_1920_awers.jpg",
   "rewers": "img/bitwa_warszawska_1920_rewers.jpg"
+  },
+  {
+  "rok": 2011,
+  "nazwa": "Smoleńsk",
+  "seria": "Historia Polski",
+  "awers": "img/smolensk_awers.jpg",
+  "rewers": "img/smolensk_rewers.jpg"
   },
   {
   "rok": 2011,
