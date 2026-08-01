@@ -356,3 +356,31 @@ button:hover{
     color:#4caf50;
     font-weight:700;
 }
+.status{
+    display:inline-block;
+    padding:4px 10px;
+    border-radius:20px;
+    font-size:13px;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.status.menniczy{
+    background:#1f6f3b;
+    color:#fff;
+}
+
+.status.bdb{
+    background:#1e5aa8;
+    color:#fff;
+}
+
+.status.db{
+    background:#b8860b;
+    color:#fff;
+}
+
+.status.slaby{
+    background:#8b2f2f;
+    color:#fff;
+}
