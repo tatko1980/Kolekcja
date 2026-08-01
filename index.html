@@ -63,6 +63,17 @@ if(yearsOpen){
 }
 
 document.getElementById('serie').innerHTML = shtml;
+// Statystyki
+
+document.getElementById("coinsCount").textContent = all.length;
+
+let lata = all.map(m => Number(m.rok));
+
+let minRok = Math.min(...lata);
+let maxRok = Math.max(...lata);
+
+document.getElementById("yearsRange").textContent =
+    `${minRok} - ${maxRok}`;
 let h='';
 
 for(let k in series){
